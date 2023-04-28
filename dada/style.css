@@ -1,0 +1,27 @@
+/* 设置整个页面的字体和背景色 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightblue;
+}
+
+/* 设置标题的字号和居中对齐 */
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+/* 设置表格的宽度，边框，间距和居中对齐 */
+table {
+  width: 300px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+/* 设置单元格的宽度，高度，边框和垂直居中对齐 */
+td {
+  width: 60px;
+  height: 60px;
+  border: 1px solid black;
+  vertical-align: middle;
+}
